@@ -1,4 +1,4 @@
-### ようこそ
+### 私のGITHUBへようこそ
 
 Welcome to my GitHub page. Feel free to browse around but beware, there are a lot of useless and unmaintained projects flying around :)
 
