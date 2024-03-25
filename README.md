@@ -1,6 +1,6 @@
-### 私のGITHUBへようこそ
+# 私のGITHUBへようこそ
 
-Welcome to my GitHub page. Feel free to browse around but beware, there are a lot of useless and unmaintained projects flying around :)
+Welcome to my GitHub profile. Feel free to wander around but beware, there are a lot of useless and unmaintained projects flying around :) More to come, probably.
 
 - 👨‍💻 Frontend-Developer
 - ✍️ Read about me on [makkusu.dev](https://makkusu.dev)
