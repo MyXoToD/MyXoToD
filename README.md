@@ -10,6 +10,14 @@ Welcome to my GitHub profile. Feel free to wander around but beware, there are a
 - 🌃 I like watching nightskies
 - 🎌 Learning Japanese since '20
 
+# My Eleventy Plugins
+
+|Name|Description|Package|
+|---|---|---|
+|[eleventy-plugin-readingtime](https://github.com/MyXoToD/eleventy-plugin-readingtime)|Adds a filter to display average post reading time depending on the word count|[npm](https://www.npmjs.com/package/@myxotod/eleventy-plugin-readingtime)|
+|eleventy-plugin-furigana|Adds furigana to kanji|coming soon|
+|eleventy-plugin-index|Adds a table of contents to your post|coming soon|
+
 # 🚀 Github Stats
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MyXoToD&theme=darkmode&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
