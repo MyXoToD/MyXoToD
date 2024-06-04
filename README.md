@@ -10,7 +10,7 @@ Welcome to my GitHub profile. Feel free to wander around but beware, there are a
 - 🌃 I like watching nightskies
 - 🎌 Learning Japanese since '20
 
-# My Eleventy Plugins
+# 🧩 My Eleventy Plugins
 
 |Name|Description|Package|
 |---|---|---|
